@@ -47,7 +47,7 @@
 
 ## 🏅 Awards  
 
-- 2025 AI_Nocode_MCP Hackathon 최우수상
+🏆 Excellence Award -  2025 AI_Nocode_MCP Hackathon 최우수상
 
 <!--
 **Chocobone/Chocobone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
