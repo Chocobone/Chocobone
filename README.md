@@ -45,12 +45,9 @@
 </tr>
 </table>
 
-## 🏅 Stats  
+## 🏅 Awards  
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chocobone&show_icons=true&theme=vue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocobone&layout=compact&hide=objective-c,jupyter%20notebook,cmake,makefile,html" />
-</div>
+- 2025 AI_Nocode_MCP Hackathon 최우수상
 
 <!--
 **Chocobone/Chocobone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
