@@ -33,7 +33,8 @@
 ---
 - KyungHee University Software Convergence major (2021. 03 ~ Now)
 
-
+<div align="center">
+  
 [![Chocobone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocobone)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+</div>
