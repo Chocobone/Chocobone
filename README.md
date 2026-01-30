@@ -12,7 +12,7 @@
 ### 💻 Experience  
 ---  
 - Core Member, **[Google Developer Groups on Campus](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus?pli=1)** (GDGoC) KHU (2025.09 ~ 2026.02)
-- Backend Developer, **[Google Developer Groups on Campus](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus?pli=1)** (GDGoC) KHU (2024.09 ~ 2025.06)
+- Backend Member, **[Google Developer Groups on Campus](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus?pli=1)** (GDGoC) KHU (2024.09 ~ 2025.06)
 
 ### ⚒️ Stacks
 ---
