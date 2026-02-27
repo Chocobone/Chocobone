@@ -1,9 +1,38 @@
-<div align="center">
+<div align="left">
   
-### 👋 **Hi there!**
+## 👋 **Hi there!**
 
 </div>
+<p align="left">
+  <!-- Page Views -->
+  <a href="https://github.com/chocobone">
+    <img src="https://komarev.com/ghpvc/?username=ssum21" alt="page views" />
+  </a>
+  
+<!-- Email -->
+  <a href="mailto:yho7374@khu.ac.kr">
+    <img alt="Email" src="https://img.shields.io/badge/Email-yho7374@khu.ac.kr-green" />
+  </a>
+  
+  <!-- solved.ac -->
+  <a href="https://solved.ac/yho7374">
+    <img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yho7374" />
+  </a>
 
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/chocobone">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hyunwoong Yu-red" />
+  </a>
+</p>
+
+  <!-- GitHub Stats -->
+  <a href="#chocobone-title">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocobone&layout=compact" alt="Coding Stats" align="right"  />
+  </a>
+
+
+
+</p>
 
 ### ⚒️ Career
 ---
@@ -27,7 +56,8 @@
 
 ### 🏆 Prize
 ---
-- Excellence Award(최우수상) - 2025 AI_Nocode_MCP Hackathon 
+- 1st Prize(최우수상) - 2025 AI_Nocode_MCP Hackathon
+- 2nd Prize(우수상) - 2025-2 경희대학교 캡스톤디자인 경진대회
 
 ### 👩‍🏫 Education
 ---
