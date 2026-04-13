@@ -58,7 +58,7 @@
 ### 🏆 Prize
 ---
 - 1st Prize(최우수상) - 2025 AI_Nocode_MCP Hackathon
-- 2nd Prize(우수상) - 2025-2 경희대학교 캡스톤디자인 경진대회
+- Win Prize(우수상) - 2025-2 경희대학교 캡스톤디자인 경진대회
 
 ### 👩‍🏫 Education
 ---
