@@ -20,7 +20,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/chocobone">
+  <a href="https://www.linkedin.com/in/%ED%98%84%EC%9B%85-%EC%9C%A0-521821364/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hyunwoong Yu-red" />
   </a>
 </p>
