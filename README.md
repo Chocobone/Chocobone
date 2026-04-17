@@ -57,8 +57,8 @@
 
 ### 🏆 Prize
 ---
-- 1st Prize(최우수상) - 2025 AI_Nocode_MCP Hackathon
-- Win Prize(우수상) - 2025-2 경희대학교 캡스톤디자인 경진대회
+- 과학기술정보통신부 제2회 AI-MCP 해커톤 - [NIA 기관장상 | 최우수상](https://github.com/Chocobone/UMC_mid_PreProcessing)
+- 2025-2 경희대학교 캡스톤디자인 경진대회 - [우수상](https://github.com/Chocobone/AACommu_model)
 
 ### 👩‍🏫 Education
 ---
