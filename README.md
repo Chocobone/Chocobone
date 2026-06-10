@@ -36,7 +36,7 @@
 
 ### ⚒️ Career
 ---
-- Backend Developer Intern, **[Gazzilabs](https://gazzilabs.github.io/)**  (2026.01 ~ )
+- Backend Developer Intern, **[Gazzilabs](https://gazzi.ai/)**  (2026.01 ~ 2026.06)
 
 ### 💻 Experience  
 ---  
